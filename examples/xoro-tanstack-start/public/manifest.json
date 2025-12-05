@@ -1,6 +1,6 @@
 {
-  "short_name": "XORO TanStack",
-  "name": "XORO TanStack Starter",
+  "short_name": "xoro-tanstack-start",
+  "name": "xoro-tanstack-start",
   "icons": [
     {
       "src": "favicon.svg",
