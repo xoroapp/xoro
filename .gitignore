@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+.next
+.turbo
+
+# IDE
+.vscode
+.idea
+*.swp
+*.bak
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Coverage
+.nyc_output
+coverage
+coverage.lcov
+
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Vercel/Xoro
+.vercel
+
+# Cache
+.eslintcache
+turbo-cache-key.json
+
+# Python
+__pycache__
