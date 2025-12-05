@@ -1,6 +1,6 @@
 {
-  "short_name": "XORO App",
-  "name": "XORO App Template",
+  "short_name": "XORO TanStack",
+  "name": "XORO TanStack Starter",
   "icons": [
     {
       "src": "favicon.svg",
