@@ -1,4 +1,4 @@
-### [Xoro](https://xoro.app)
+### [XORO](https://xoro.app)
 
 Run. Grow. Connect.
 

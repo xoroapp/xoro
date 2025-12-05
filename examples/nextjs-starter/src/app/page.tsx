@@ -25,7 +25,7 @@ export default function Home() {
           </h1>
           
           <p className="text-lg sm:text-xl text-gray-400 max-w-xl leading-relaxed">
-            Your Next.js application is live on the Xoro Platform. 
+            Your Next.js application is live on the XORO Cloud. 
             Everything you need to power your transportation business is right here.
           </p>
 
@@ -76,7 +76,7 @@ export default function Home() {
       </main>
 
       <footer className="absolute bottom-6 w-full text-center text-sm text-gray-600">
-        <p>Powered by Xoro Platform</p>
+        <p>Powered by XORO Platform</p>
       </footer>
     </div>
   );
